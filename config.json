@@ -5,7 +5,7 @@
     "prefix": "*",
     "command_name": "start",
     
-    "give_role": true,
+    "give_role": false,
     "role_name": "ROLE-NAME-HERE",
 
     "mass_dm": 0,
