@@ -1,4 +1,4 @@
-<h1 align="center">[Discord] - Fake Verification Bot (V1.0.0)</h1>
+<h1 align="center">[Discord] - Fake Verification Bot (V1.0.1)</h1>
 <p align="center">
   <a href="https://github.com/SenT0417/Discord-Fake-Verification-Bot">
     <img src="https://img.shields.io/badge/License-MIT-important">
